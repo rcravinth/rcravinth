@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rcravinth
-- 👀 I’m interested in Machne learning
+- 👀 I’m interested in Machine learning
 - 🌱 I’m currently working as Software debug engineer
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me rcaravinth@gmail.com
